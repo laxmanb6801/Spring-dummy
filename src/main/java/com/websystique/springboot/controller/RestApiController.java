@@ -21,6 +21,8 @@ import com.websystique.springboot.util.CustomErrorType;
 
 @RestController
 @RequestMapping("/api")
+@RequestMapping("/api")
+@RequestMapping("/api")
 public class RestApiController {
 
 	public static final Logger logger = LoggerFactory.getLogger(RestApiController.class);
