@@ -15,5 +15,8 @@ public class SpringBootCRUDApp {
 		SpringApplication.run(SpringBootCRUDApp.class, args);
 		SpringApplication.run(SpringBootCRUDApp.class, args);
 		SpringApplication.run(SpringBootCRUDApp.class, args);
+		SpringApplication.run(SpringBootCRUDApp.class, args);
+		SpringApplication.run(SpringBootCRUDApp.class, args);
+		SpringApplication.run(SpringBootCRUDApp.class, args);
 	}
 }
